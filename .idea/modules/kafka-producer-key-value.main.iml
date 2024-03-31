@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="kafka-producer-key-value:main" external.linked.project.path="$MODULE_DIR$/../../ch03/kafka-producer-key-value" external.root.project.path="$MODULE_DIR$/../../ch03/kafka-producer-key-value" external.system.id="GRADLE" external.system.module.group="com.example" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../ch03/kafka-producer-key-value/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../ch03/kafka-producer-key-value/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../ch03/kafka-producer-key-value/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../ch03/kafka-producer-key-value/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.apache.kafka:kafka-clients:3.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-simple:1.7.30" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.slf4j:slf4j-api:1.7.30" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.luben:zstd-jni:1.5.5-6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lz4:lz4-java:1.8.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.xerial.snappy:snappy-java:1.1.10.5" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.slf4j:slf4j-api:1.7.36" level="project" />
+  </component>
+</module>

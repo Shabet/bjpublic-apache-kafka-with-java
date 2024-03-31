@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bjpublic-apache-kafka-with-java.iml" filepath="$PROJECT_DIR$/.idea/bjpublic-apache-kafka-with-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-consumer-async-commit.iml" filepath="$PROJECT_DIR$/kafka-consumer-async-commit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-consumer-async-commit.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-consumer-async-commit.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-consumer-async-commit.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-consumer-async-commit.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-consumer-rebalance-listener.iml" filepath="$PROJECT_DIR$/kafka-consumer-rebalance-listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-consumer-rebalance-listener.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-consumer-rebalance-listener.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-consumer-rebalance-listener.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-consumer-rebalance-listener.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-consumer-sync-commit.iml" filepath="$PROJECT_DIR$/kafka-consumer-sync-commit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-consumer-sync-commit.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-consumer-sync-commit.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-consumer-sync-commit.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-consumer-sync-commit.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-consumer-sync-offset-commit.iml" filepath="$PROJECT_DIR$/kafka-consumer-sync-offset-commit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-consumer-sync-offset-commit.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-consumer-sync-offset-commit.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-consumer-sync-offset-commit.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-consumer-sync-offset-commit.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-producer-async-callback.iml" filepath="$PROJECT_DIR$/kafka-producer-async-callback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-producer-async-callback.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-producer-async-callback.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-producer-async-callback.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-producer-async-callback.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-producer-custom-partitioner.iml" filepath="$PROJECT_DIR$/kafka-producer-custom-partitioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-producer-custom-partitioner.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-producer-custom-partitioner.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-producer-custom-partitioner.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-producer-custom-partitioner.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-producer-exact-partition.iml" filepath="$PROJECT_DIR$/kafka-producer-exact-partition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-producer-exact-partition.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-producer-exact-partition.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-producer-exact-partition.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-producer-exact-partition.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-producer-key-value.iml" filepath="$PROJECT_DIR$/kafka-producer-key-value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-producer-key-value.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-producer-key-value.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-producer-key-value.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-producer-key-value.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-producer-sync-callback.iml" filepath="$PROJECT_DIR$/kafka-producer-sync-callback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-producer-sync-callback.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-producer-sync-callback.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-producer-sync-callback.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-producer-sync-callback.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-kafka-consumer.iml" filepath="$PROJECT_DIR$/simple-kafka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-kafka-consumer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-kafka-consumer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-kafka-consumer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-kafka-consumer.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-kafka-producer.iml" filepath="$PROJECT_DIR$/simple-kafka-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-kafka-producer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-kafka-producer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-kafka-producer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-kafka-producer.test.iml" />
+    </modules>
+  </component>
+</project>

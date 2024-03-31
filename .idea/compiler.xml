@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="kafka-consumer-async-commit" target="17" />
+      <module name="kafka-consumer-async-commit.main" target="17" />
+      <module name="kafka-consumer-async-commit.test" target="17" />
+      <module name="kafka-consumer-rebalance-listener" target="17" />
+      <module name="kafka-consumer-rebalance-listener.main" target="17" />
+      <module name="kafka-consumer-rebalance-listener.test" target="17" />
+      <module name="kafka-consumer-sync-commit" target="17" />
+      <module name="kafka-consumer-sync-commit.main" target="17" />
+      <module name="kafka-consumer-sync-commit.test" target="17" />
+      <module name="kafka-consumer-sync-offset-commit" target="17" />
+      <module name="kafka-consumer-sync-offset-commit.main" target="17" />
+      <module name="kafka-consumer-sync-offset-commit.test" target="17" />
+      <module name="kafka-producer-async-callback" target="17" />
+      <module name="kafka-producer-async-callback.main" target="17" />
+      <module name="kafka-producer-async-callback.test" target="17" />
+      <module name="kafka-producer-custom-partitioner" target="17" />
+      <module name="kafka-producer-custom-partitioner.main" target="17" />
+      <module name="kafka-producer-custom-partitioner.test" target="17" />
+      <module name="kafka-producer-exact-partition" target="17" />
+      <module name="kafka-producer-exact-partition.main" target="17" />
+      <module name="kafka-producer-exact-partition.test" target="17" />
+      <module name="kafka-producer-key-value" target="17" />
+      <module name="kafka-producer-key-value.main" target="17" />
+      <module name="kafka-producer-key-value.test" target="17" />
+      <module name="kafka-producer-sync-callback" target="17" />
+      <module name="kafka-producer-sync-callback.main" target="17" />
+      <module name="kafka-producer-sync-callback.test" target="17" />
+      <module name="simple-kafka-consumer" target="17" />
+      <module name="simple-kafka-consumer.main" target="17" />
+      <module name="simple-kafka-consumer.test" target="17" />
+      <module name="simple-kafka-producer" target="17" />
+      <module name="simple-kafka-producer.main" target="17" />
+      <module name="simple-kafka-producer.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

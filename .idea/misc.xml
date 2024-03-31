@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ch03/kafka-consumer-async-commit" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03/kafka-consumer-rebalance-listener" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03/kafka-consumer-sync-commit" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03/kafka-consumer-sync-offset-commit" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03/kafka-producer-async-callback" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03/kafka-producer-custom-partitioner" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03/kafka-producer-exact-partition" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03/kafka-producer-key-value" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03/kafka-producer-sync-callback" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03/simple-kafka-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03/simple-kafka-producer" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
